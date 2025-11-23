@@ -1,59 +1,73 @@
 <h1 align="center">👋 Hola, soy Daky</h1>
 
 <p align="center">
-  Desarrollador Web enfocado en crear aplicaciones funcionales, claras y eficientes.
-  <br/>
-  Siempre aprendiendo, siempre construyendo.
+ Tecnólogo en Desarrollo de Software • Desarrollador Web
 </p>
 
 ---
 
 ### 🚀 Sobre mí
-- 💻 Actualmente aprendiendo **Node.js / Express** y conectándolo con bases de datos.
-- 🎯 Meta profesional: Trabajar como desarrollador junior y seguir creciendo.
-- 📈 Me gusta resolver problemas y crear proyectos que tengan utilidad real.
-- 📚 Aprendizaje constante y disciplina (aunque cueste 😅).
+Soy una persona lista para enfrentar nuevos retos y seguir creciendo profesionalmente.  
+Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
+
+- 💻 Actualmente aprendiendo **Node.js / Express** y conectándolo con bases de datos.  
+- 🎯 Meta profesional: crecer como desarrollador web.  
+- 📈 Me gusta resolver problemas y crear proyectos útiles y reales.  
+- 📚 Aprendizaje constante y disciplina (aunque cueste 😅).  
 
 ---
 
 ### 🧰 Tecnologías y herramientas
-<div align="left">
 
 🟨 **JavaScript**  
 🟩 **Node.js**  
 ⚙️ **Express**  
 🗄️ **SQL (MySQL / PostgreSQL)**  
 🌐 **HTML / CSS**  
-🔧 **Git & GitHub**
+🎨 **Tailwind CSS**  
+🔹 **Vue.js**  
+🔹 **React.js**  
+🛠️ **Strapi**  
+🚀 **Netlify**  
+🐙 **GitHub**
 
-</div>
+---
+
+### 📚 Conocimientos extra
+
+🐍 **Python**  
+🌐 **WordPress**  
+☁️ **GoDaddy (Hosting / Dominios)**  
 
 ---
 
 ### 📌 Proyectos Destacados
 
-🔹 **Administración de Locales Comerciales**  
-_API con Node.js, Express y SQL. Roles, permisos y CRUD completo._  
-👉 (Pon aquí el link cuando lo subas)
+🔹 **BryTattoStudios**  
+_App para administración de artistas, citas y clientes para un estudio de tatuajes._  
+👉 *(Agrega el link cuando lo subas)*
+
+🔹 **Transportes Rea**  
+_Plataforma sencilla para llevar control de transporte, unidades, clientes y guías._  
+👉 *(Agrega el link cuando lo subas)*
+
+🔹 **Fake Temu**  
+_Mini tienda con productos falsos de Temu, carrito y diseño responsivo._  
+👉 *(Agrega el link cuando lo subas)*
 
 🔹 **Mini Ecommerce**  
-_Front + lógica básica de carrito, productos y UI limpia._  
-👉 (Pon link cuando lo subas)
-
-🔹 **Proyecto de tatuajes**  
-_App simple para administrar artistas, citas y clientes._  
-👉 (Pon link cuando lo subas)
+_Front con carrito de compras, productos y UI sencilla._  
+👉 *(Agrega link cuando lo subas)*
 
 ---
 
 ### 📫 Contáctame
 
-- ✉️ **tu correo (si quieres ponerlo)**
-- 🔗 Portafolio: *cuando lo tengas*
-- 🐙 GitHub: **github.com/dakymales29**
+- ✉️ teomc0087@gmail.com  
+- 🔗 Portafolio: *(cuando lo publiques)*  
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🙌
+  ¡Gracias por visitar mi perfil! 🙌
 </p>
