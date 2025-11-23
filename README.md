@@ -45,21 +45,22 @@ Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
 
 🔹 **BryTattoStudios**  
 _App para administración de artistas, citas y clientes para un estudio de tatuajes._  
-👉 *(Agrega el link cuando lo subas)*
+👉 https://github.com/dakymales29/brytattostudio.git
+👉 Video Demo: https://youtu.be/e_lM1r3aZgQ
 
 🔹 **Transportes Rea**  
 _Plataforma sencilla para llevar control de transporte, unidades, clientes y guías._  
-👉 *(Agrega el link cuando lo subas)*
+👉 https://github.com/dakymales29/FletesyMudanzas.git
+👉 Demo: https://transportesrea.netlify.app/
 
 🔹 **Fake Temu**  
 _Mini tienda con productos falsos de Temu, carrito y diseño responsivo._  
-👉 *(Agrega el link cuando lo subas)*
-
-🔹 **Mini Ecommerce**  
-_Front con carrito de compras, productos y UI sencilla._  
-👉 *(Agrega link cuando lo subas)*
-
----
+👉 https://github.com/dakymales29/Fake-Temu-Ecommerce.git
+👉Demo: https://dakymales29.github.io/Fake-Temu-Ecommerce/#/mostrar
+🔹 **Henry Davis Foundation**  
+👉Demo: https://henrydavisfoundation.org/
+🔹 **Global Print Service**  
+👉Demo: https://globalprintservice.com
 
 ### 📫 Contáctame
 
