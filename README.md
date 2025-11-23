@@ -45,27 +45,39 @@ Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
 
 🔹 **BryTattoStudios**  
 _App para administración de artistas, citas y clientes para un estudio de tatuajes._  
-👉 https://github.com/dakymales29/brytattostudio.git
-👉 Video Demo: https://youtu.be/e_lM1r3aZgQ
+👉 **Repo:** https://github.com/dakymales29/brytattostudio.git  
+👉 **Video Demo:** https://youtu.be/e_lM1r3aZgQ  
+
+---
 
 🔹 **Transportes Rea**  
-_Plataforma sencilla para llevar control de transporte, unidades, clientes y guías._  
-👉 https://github.com/dakymales29/FletesyMudanzas.git
-👉 Demo: https://transportesrea.netlify.app/
+_Plataforma para control de transporte, unidades, clientes y guías._  
+👉 **Repo:** https://github.com/dakymales29/FletesyMudanzas.git  
+👉 **Demo:** https://transportesrea.netlify.app/  
+
+---
 
 🔹 **Fake Temu**  
-_Mini tienda con productos falsos de Temu, carrito y diseño responsivo._  
-👉 https://github.com/dakymales29/Fake-Temu-Ecommerce.git
-👉Demo: https://dakymales29.github.io/Fake-Temu-Ecommerce/#/mostrar
+_Mini tienda inspirada en Temu, carrito, UI responsiva._  
+👉 **Repo:** https://github.com/dakymales29/Fake-Temu-Ecommerce.git  
+👉 **Demo:** https://dakymales29.github.io/Fake-Temu-Ecommerce/#/mostrar  
+
+---
+
 🔹 **Henry Davis Foundation**  
-👉Demo: https://henrydavisfoundation.org/
+👉 **Demo:** https://henrydavisfoundation.org/  
+
+---
+
 🔹 **Global Print Service**  
-👉Demo: https://globalprintservice.com
+👉 **Demo:** https://globalprintservice.com  
+
+---
 
 ### 📫 Contáctame
 
-- ✉️ teomc0087@gmail.com  
-- 🔗 Portafolio: *(cuando lo publiques)*  
+- ✉️ **teomc0087@gmail.com**  
+- 🔗 **Portafolio:** *(cuando lo publiques)*  
 
 ---
 
