@@ -44,21 +44,21 @@ Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
 ### 📌 Proyectos Destacados
 
 🔹 **BryTattoStudios**  
-_App para administración de artistas, citas y clientes para un estudio de tatuajes._  
+_App para administración de productos que vende el propietario y muestra su galeria de tatuajes y formas de contactarlo._  
 👉 **Repo:** https://github.com/dakymales29/brytattostudio.git  
 👉 **Video Demo:** https://youtu.be/e_lM1r3aZgQ  
 
 ---
 
 🔹 **Transportes Rea**  
-_Plataforma para control de transporte, unidades, clientes y guías._  
+_Página web que muestra información de el servicio fletez y mudanzas de Transportes Rea._  
 👉 **Repo:** https://github.com/dakymales29/FletesyMudanzas.git  
 👉 **Demo:** https://transportesrea.netlify.app/  
 
 ---
 
 🔹 **Fake Temu**  
-_Mini tienda inspirada en Temu, carrito, UI responsiva._  
+_Mini Eccomerce, carrito y UI responsiva. Utiliza API gratuita Fake Store. _  
 👉 **Repo:** https://github.com/dakymales29/Fake-Temu-Ecommerce.git  
 👉 **Demo:** https://dakymales29.github.io/Fake-Temu-Ecommerce/#/mostrar  
 
