@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Daky</h1>
 
 <p align="center">
- Tecnólogo en Desarrollo de Software • Desarrollador Web
+ Tecnólogo en Desarrollo de Software
 </p>
 
 ---
