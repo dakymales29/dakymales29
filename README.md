@@ -45,6 +45,14 @@ Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
 
 ### 📌 Proyectos Destacados
 
+
+🔹 **Centro Comercial Quitus**  
+_Sistema web fullstack para la administración de locales de un centro comercial. Incluye autenticación con JWT, control de roles, API REST en Node.js y Express, base de datos relacional en PostgreSQL (Neon) y despliegue en producción con Render._  
+👉 **Repo:** https://github.com/dakymales29/Quitus.git  
+👉 **Demo:** https://quitus-1.onrender.com  
+
+---
+
 🔹 **BryTattoStudios**  
 _App para administración de productos que vende el propietario y muestra su galeria de tatuajes y formas de contactarlo._  
 👉 **Repo:** https://github.com/dakymales29/brytattostudio.git  
