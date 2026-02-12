@@ -30,6 +30,8 @@ Mis pasatiempos son el cine, los videojuegos y aprender a tocar la guitarra.
 🛠️ **Strapi**  
 🚀 **Netlify**  
 🐙 **GitHub**
+🔹 **Neon** 
+🔹 **Render** 
 
 ---
 
